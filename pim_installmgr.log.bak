@@ -1,0 +1,64 @@
+  PTC Installation assistant log file
+========= PIM Version: 4.2.0 ==========
+Thu Jul 20 10:46:52 17
+=======================================
+ Sessioninfo xml file :C:\Program Files\PTC\Creo 4.0\M020\Direct\bin\pim\xml\sessioninfo.xml)
+sessioninfo created
+ Sessioninfo xml file :C:\Program Files\PTC\Creo 4.0\M020\Direct\bin\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (C:\Program Files\PTC\Creo 4.0\M020\Direct\bin\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :C:\Program Files\PTC\Creo 4.0\M020\Direct\bin\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (C:\Program Files\PTC\Creo 4.0\M020\Direct\bin\pim\xml\creoplatformagent.xml)
+Loaded product definition file: C:\Program Files\PTC\Creo 4.0\M020\Direct\bin\pim\xml\dma.p.xml.
+Removed script silent_Group_Uninstall.bat.
+Removed Windows Registry key [HKCR].phw.
+Removed Windows Registry key [HKCR]phwFile/DefaultIcon.
+Removed Windows Registry key [HKCR]phwFile/Shell/Open/Command.
+Removed Windows Registry key [HKCR]phwFile/Shell/Open.
+Removed Windows Registry key [HKCR]phwFile/Shell.
+Removed Windows Registry key [HKCR]phwFile.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\apps.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\apps_data.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\backup.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\creo_standards.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\CustomLoad.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\demos.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\formats.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\graphic-library.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\help.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\includes.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\interconnect_app.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\intudfs.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\libs.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\manifests.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\manikin_lite.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\mech.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\mfg_cmdsyn.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\mfg_cmdsyn_ai.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\modchk.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\proe.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\proole.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\protable.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\protoolkit.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\PRO_APPT.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\symbols.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\templates.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\text.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\usrprog.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\weblink.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Common Files\x86e_win64.
+Removed Start Menu Programs Folder Shortcut Creo Direct 4.0 M020.
+Removed Start Menu Programs empty folder  PTC.
+Removed Desktop Shortcut Creo Direct 4.0 M020.
+Removed script direct.psf.
+Removed script direct.bat.
+Removed script cocreatesim.psf.
+Removed script cocreatesim.bat.
+Removed script direct_borrow.bat.
+Removed script protk_unlock.bat.
+Removed Windows Registry key [HKCR]Applications/direct.exe/Shell/Open/Command.
+Removed Windows Registry key [HKCR]Applications/direct.exe/Shell/Open.
+Removed Windows Registry key [HKCR]Applications/direct.exe/Shell.
+Removed Windows Registry key [HKCR]Applications/direct.exe.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Direct\install.
+Removed the directory C:\Program Files\PTC\Creo 4.0\M020\Direct\text.
+Uninstall information removed from the registry for PTC Creo Direct Version 4.0 Datecode [M020].

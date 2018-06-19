@@ -1,0 +1,415 @@
+  PTC Installation assistant log file
+========= PIM Version: 4.2.0 ==========
+Thu Jul 20 17:28:28 17
+=======================================
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\sessioninfo.xml)
+sessioninfo created
+PimTop-sessioninfo created
+before test communication
+skip test communication
+set platforms
+set languages prop
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creobase.xml.
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creothumbnailviewer.xml.
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoviewexpress.xml.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\dma.xml.
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\dsm.xml.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\layout.xml.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\dotnet4.xml)
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\dotnet4.xml)
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\mathcad.xml.
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\mathcadpdsi.xml.
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\mkscomponents.xml.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\optsmdler.xml.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\pma.xml.
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\qualityagent.xml.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creoplatformagent.xml)
+Loaded product definition file: C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\sim.xml.
+AddLicenseSource (OnInputPanelInput) : 0 : 7
+AddLicenseSource (OnInputPanelInput) : 0 : 77
+AddLicenseSource (OnInputPanelInput) : 0 : 778
+AddLicenseSource (OnInputPanelInput) : 0 : 7788
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@c
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@co
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@coe
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@coes
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@coesr
+AddLicenseSource (OnInputPanelInput) : 0 : 7788@coesrv
+Microsoft .NET Framework 4 Client Profile was found to be installed. 
+Microsoft .NET Framework 4 was found to be installed. 
+This is a core component of Creo which provides browser and other services.
+A Microsoft component required only if you install PTC Mathcad Prime.
+Installation root path set to: C:\Program Files\PTC
+Starting the installation of Creo Platform Agent.
+Starting the installation of Creo Common Files.
+Starting the installation of Creo Thumbnail Viewer.
+Starting the installation of Creo View Express.
+Starting the installation of Creo Direct.
+Starting the installation of Creo Layout.
+Starting the installation of Creo Parametric.
+Starting the installation of Diagnostic Tools.
+Starting the installation of Creo Simulate.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc0.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc1.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc2.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc12.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc18.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc19.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc20.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc31.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc32.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc33.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc34.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc35.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc46.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+The Command line execution of "C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\install\addon\pvx32_64\CreoSetup.exe" returned an exit code of 0.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc57.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc68.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc79.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc80.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc81.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc82.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc83.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc93.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc94.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc95.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc96.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc97.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc99.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc100.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc121.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc124.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+The Command line execution of "C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\install\addon\creosvcs_64.exe" returned an exit code of 0.
+The Command line execution of "msiexec.exe /qn /I "C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\install\addon\Thumbviewer_32_64.msi"" returned an exit code of 0.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc125.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc126.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc127.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+The Command line execution of "msiexec.exe /qn /I "C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\install\addon\qualityagent_64.msi" INSTALLDIR="C:\Program Files\PTC\DiagnosticTools"" returned an exit code of 0.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc131.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc132.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc134.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc148.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc158.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc159.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc169.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc191.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc232.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc234.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc241.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc254.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc294.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc299.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc309.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc321.cab to path C:\Program Files\PTC\Creo 4.0\M020\Common Files.
+Created registry key [HKCR].phw with default value phwFile.
+Created registry key [HKCR]phwFile with default value PTC Helper App File.
+Created registry key [HKCR]phwFile\DefaultIcon with default value [ICON],0.
+Created registry key [HKCR]phwFile\Shell.
+Created registry key [HKCR]phwFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]phwFile\Shell\Open\Command with default value "[LP]/[THIS_ARCH]/obj/creo_openwith.exe" "%1".
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Common Files/x86e_win64/obj/system_monitor.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/InstallManager/silent_Group_Uninstall.bat.
+Setting up Uninstall information in the registry for PTC Creo Layout Version 4.0 Datecode [M020].
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc106.cab to path C:\Program Files\PTC\Creo 4.0\M020\Layout.
+Uninstall information entered into the registry for PTC Creo Layout Version 4.0 Datecode [M020].
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc109.cab to path C:\Program Files\PTC\Creo 4.0\M020\Layout.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc110.cab to path C:\Program Files\PTC\Creo 4.0\M020\Layout.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc128.cab to path C:\Program Files\PTC\Creo 4.0\M020\Layout.
+Modified existing registry key [HKCR].psf with default value psfFile
+Modified existing registry key [HKCR].asm with default value asmFile
+Created registry key [HKCR].cem with default value cemFile.
+Modified existing registry key [HKCR].prt with default value prtFile
+Modified existing registry key [HKCR]creoFile with default value Creo Versioned File
+Modified existing registry key [HKCR]creoFile with default value PTC.Creo_Layout
+Created registry key [HKCR]creoFile\DefaultIcon with default value [ICON],0.
+Created registry key [HKCR]creoFile\Shell.
+Created registry key [HKCR]creoFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]creoFile\Shell\Open\Command with default value "[LP]/bin/layout.exe" "%1".
+Modified existing registry key [HKCR]psfFile with default value PTC Startup File
+Modified existing registry key [HKCR]psfFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]psfFile\Shell found to already exist.
+Created registry key [HKCR]psfFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]psfFile\Shell\Open\Command with default value "[LP]/bin/layout.exe" "%1".
+Modified existing registry key [HKCR]asmFile with default value Creo Assembly File
+Modified existing registry key [HKCR]asmFile with default value PTC.Creo_Layout
+Modified existing registry key [HKCR]asmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]asmFile\Shell found to already exist.
+Created registry key [HKCR]asmFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]asmFile\Shell\Open\Command with default value "[LP]/bin/layout.exe" "%1".
+Created registry key [HKCR]cemFile with default value Creo Layout File.
+Modified existing registry key [HKCR]cemFile with default value PTC.Creo_Layout
+Created registry key [HKCR]cemFile\DefaultIcon with default value [ICON],0.
+Created registry key [HKCR]cemFile\Shell.
+Created registry key [HKCR]cemFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]cemFile\Shell\Open\Command with default value "[LP]/bin/layout.exe" "%1".
+Modified existing registry key [HKCR]prtFile with default value Creo Part File
+Modified existing registry key [HKCR]prtFile with default value PTC.Creo_Layout
+Modified existing registry key [HKCR]prtFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]prtFile\Shell found to already exist.
+Created registry key [HKCR]prtFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]prtFile\Shell\Open\Command with default value "[LP]/bin/layout.exe" "%1".
+Created registry key [HKCR]Applications\layout.exe with default value PTC.Creo_Layout.
+Created registry key [HKCR]Applications\layout.exe\Shell.
+Created registry key [HKCR]Applications\layout.exe\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]Applications\layout.exe\Shell\Open\Command with default value "[LP]/bin/layout.exe" "%1".
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Layout/bin/layout_borrow.bat.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\psf_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Layout/bin/layout.psf.
+Create Start Menu Programs Folder Shortcut Creo Layout 4.0 M020.
+Create Desktop Shortcut Creo Layout 4.0 M020.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Setting up Uninstall information in the registry for PTC Creo Direct Version 4.0 Datecode [M020].
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc102.cab to path C:\Program Files\PTC\Creo 4.0\M020\Direct.
+Uninstall information entered into the registry for PTC Creo Direct Version 4.0 Datecode [M020].
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc109.cab to path C:\Program Files\PTC\Creo 4.0\M020\Direct.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc110.cab to path C:\Program Files\PTC\Creo 4.0\M020\Direct.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc128.cab to path C:\Program Files\PTC\Creo 4.0\M020\Direct.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc300.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Modified existing registry key [HKCR].psf with default value psfFile
+Modified existing registry key [HKCR].asm with default value asmFile
+Modified existing registry key [HKCR].prt with default value prtFile
+Modified existing registry key [HKCR]creoFile with default value Creo Versioned File
+Modified existing registry key [HKCR]creoFile with default value PTC.Creo_Direct
+Modified existing registry key [HKCR]creoFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]creoFile\Shell found to already exist.
+Modified existing registry key [HKCR]creoFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]creoFile\Shell\Open\Command with default value "[LP]/bin/direct.exe" "%1"
+Modified existing registry key [HKCR]psfFile with default value PTC Startup File
+Modified existing registry key [HKCR]psfFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]psfFile\Shell found to already exist.
+Modified existing registry key [HKCR]psfFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]psfFile\Shell\Open\Command with default value "[LP]/bin/direct.exe" "%1"
+Modified existing registry key [HKCR]asmFile with default value Creo Assembly File
+Modified existing registry key [HKCR]asmFile with default value PTC.Creo_Direct
+Modified existing registry key [HKCR]asmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]asmFile\Shell found to already exist.
+Setting up Uninstall information in the registry for PTC Creo Simulate Version 4.0 Datecode [M020].
+Modified existing registry key [HKCR]asmFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]asmFile\Shell\Open\Command with default value "[LP]/bin/direct.exe" "%1"
+Modified existing registry key [HKCR]prtFile with default value Creo Part File
+Modified existing registry key [HKCR]prtFile with default value PTC.Creo_Direct
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc103.cab to path C:\Program Files\PTC\Creo 4.0\M020\Simulate.
+Modified existing registry key [HKCR]prtFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]prtFile\Shell found to already exist.
+Modified existing registry key [HKCR]prtFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]prtFile\Shell\Open\Command with default value "[LP]/bin/direct.exe" "%1"
+Created registry key [HKCR]Applications\direct.exe with default value PTC.Creo_Direct.
+Created registry key [HKCR]Applications\direct.exe\Shell.
+Created registry key [HKCR]Applications\direct.exe\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]Applications\direct.exe\Shell\Open\Command with default value "[LP]/bin/direct.exe" "%1".
+Uninstall information entered into the registry for PTC Creo Simulate Version 4.0 Datecode [M020].
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Direct/bin/direct_borrow.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Direct/bin/protk_unlock.bat.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\psf_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Direct/bin/direct.psf.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Direct/bin/cocreatesim.psf.
+Create Start Menu Programs Folder Shortcut Creo Direct 4.0 M020.
+Create Desktop Shortcut Creo Direct 4.0 M020.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc104.cab to path C:\Program Files\PTC\Creo 4.0\M020\Simulate.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc109.cab to path C:\Program Files\PTC\Creo 4.0\M020\Simulate.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc110.cab to path C:\Program Files\PTC\Creo 4.0\M020\Simulate.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc128.cab to path C:\Program Files\PTC\Creo 4.0\M020\Simulate.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc170.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc171.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc178.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc179.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc300.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Modified existing registry key [HKCR].psf with default value psfFile
+Modified existing registry key [HKCR].asm with default value asmFile
+Modified existing registry key [HKCR].prt with default value prtFile
+Modified existing registry key [HKCR]creoFile with default value Creo Versioned File
+Modified existing registry key [HKCR]creoFile with default value PTC.Creo_Simulate
+Modified existing registry key [HKCR]creoFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]creoFile\Shell found to already exist.
+Modified existing registry key [HKCR]creoFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]creoFile\Shell\Open\Command with default value "[LP]/bin/simulate.exe" "%1"
+Modified existing registry key [HKCR]psfFile with default value PTC Startup File
+Modified existing registry key [HKCR]psfFile\DefaultIcon with default value [ICON],0
+Modified existing registry key [HKCR]psfFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]psfFile\Shell\Open\Command with default value "[LP]/bin/simulate.exe" "%1"
+Modified existing registry key [HKCR]asmFile with default value Creo Assembly File
+Modified existing registry key [HKCR]asmFile with default value PTC.Creo_Simulate
+Modified existing registry key [HKCR]asmFile\DefaultIcon with default value [ICON],0
+Modified existing registry key [HKCR]asmFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]asmFile\Shell\Open\Command with default value "[LP]/bin/simulate.exe" "%1"
+Modified existing registry key [HKCR]prtFile with default value Creo Part File
+Modified existing registry key [HKCR]prtFile with default value PTC.Creo_Simulate
+Modified existing registry key [HKCR]prtFile\DefaultIcon with default value [ICON],0
+Modified existing registry key [HKCR]prtFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]prtFile\Shell\Open\Command with default value "[LP]/bin/simulate.exe" "%1"
+Created registry key [HKCR]Applications\simulate.exe with default value PTC.Creo_Simulate.
+Created registry key [HKCR]Applications\simulate.exe\Shell.
+Created registry key [HKCR]Applications\simulate.exe\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]Applications\simulate.exe\Shell\Open\Command with default value "[LP]/bin/simulate.exe" "%1".
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Simulate/bin/convert_image.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Simulate/bin/simulate_borrow.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Common Files/mech/install/nt/mech_lmlicfile.bat.
+Setting up Uninstall information in the registry for PTC Creo Parametric Version 4.0 Datecode [M020].
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc98.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\psf_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Simulate/bin/simulate.psf.
+Uninstall information entered into the registry for PTC Creo Parametric Version 4.0 Datecode [M020].
+Created script C:\Program Files\PTC/Creo 4.0/M020/Simulate/bin/cocreatesim.psf.
+Create Start Menu Programs Folder Shortcut Creo Simulate 4.0 M020.
+Create Desktop Shortcut Creo Simulate 4.0 M020.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc101.cab to path C:\Program Files\PTC\Creo 4.0\M020\Parametric.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc104.cab to path C:\Program Files\PTC\Creo 4.0\M020\Parametric.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc109.cab to path C:\Program Files\PTC\Creo 4.0\M020\Parametric.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc110.cab to path C:\Program Files\PTC\Creo 4.0\M020\Parametric.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc122.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc128.cab to path C:\Program Files\PTC\Creo 4.0\M020\Parametric.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc135.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc145.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc146.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc147.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc189.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc264.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc267.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc268.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc290.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc300.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc306.cab to path C:\Program Files\PTC\Creo 4.0\M020\Parametric.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc322.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc323.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc333.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc334.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc335.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Extracting archive file from C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\ptcsh0\ptc336.cab to path C:\Program Files\PTC/Creo 4.0/M020/Common Files.
+Modified existing registry key [HKCR].psf with default value psfFile
+Modified existing registry key [HKCR].pha with default value phaFile
+Modified existing registry key [HKCR].asm with default value asmFile
+Modified existing registry key [HKCR].dgm with default value dgmFile
+Modified existing registry key [HKCR].drw with default value drwFile
+Modified existing registry key [HKCR].frm with default value frmFile
+Modified existing registry key [HKCR].lay with default value layFile
+Modified existing registry key [HKCR].mfg with default value mfgFile
+Modified existing registry key [HKCR].mrk with default value mrkFile
+Modified existing registry key [HKCR].prt with default value prtFile
+Modified existing registry key [HKCR].sec with default value secFile
+Modified existing registry key [HKCR]creoFile with default value Creo Versioned File
+Modified existing registry key [HKCR]creoFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]creoFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]creoFile\Shell found to already exist.
+Modified existing registry key [HKCR]creoFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]creoFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1"
+Modified existing registry key [HKCR]psfFile with default value PTC Startup File
+Modified existing registry key [HKCR]psfFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]psfFile\Shell found to already exist.
+Modified existing registry key [HKCR]psfFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]psfFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1"
+Modified existing registry key [HKCR]phaFile with default value PTC Helper App File
+Modified existing registry key [HKCR]phaFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]phaFile\Shell found to already exist.
+Created registry key [HKCR]phaFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]phaFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]asmFile with default value Creo Assembly File
+Modified existing registry key [HKCR]asmFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]asmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]asmFile\Shell found to already exist.
+Modified existing registry key [HKCR]asmFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]asmFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1"
+Modified existing registry key [HKCR]dgmFile with default value Creo Diagram File
+Modified existing registry key [HKCR]dgmFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]dgmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]dgmFile\Shell found to already exist.
+Created registry key [HKCR]dgmFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]dgmFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]drwFile with default value Creo Drawing File
+Modified existing registry key [HKCR]drwFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]drwFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]drwFile\Shell found to already exist.
+Created registry key [HKCR]drwFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]drwFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]frmFile with default value Creo Format File
+Modified existing registry key [HKCR]frmFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]frmFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]frmFile\Shell found to already exist.
+Created registry key [HKCR]frmFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]frmFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]layFile with default value Creo Notebook File
+Modified existing registry key [HKCR]layFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]layFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]layFile\Shell found to already exist.
+Created registry key [HKCR]layFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]layFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]mfgFile with default value Creo Manufacturing File
+Modified existing registry key [HKCR]mfgFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]mfgFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]mfgFile\Shell found to already exist.
+Created registry key [HKCR]mfgFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]mfgFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]mrkFile with default value Creo Markup File
+Modified existing registry key [HKCR]mrkFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]mrkFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]mrkFile\Shell found to already exist.
+Created registry key [HKCR]mrkFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]mrkFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Modified existing registry key [HKCR]prtFile with default value Creo Part File
+Modified existing registry key [HKCR]prtFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]prtFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]prtFile\Shell found to already exist.
+Modified existing registry key [HKCR]prtFile\Shell\Open with default value [OpenWith]
+Modified existing registry key [HKCR]prtFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1"
+Modified existing registry key [HKCR]secFile with default value Creo Section File
+Modified existing registry key [HKCR]secFile with default value PTC.Creo_Parametric
+Modified existing registry key [HKCR]secFile\DefaultIcon with default value [ICON],0
+Registry key [HKCR]secFile\Shell found to already exist.
+Created registry key [HKCR]secFile\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]secFile\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+Created registry key [HKCR]Applications\parametric.exe with default value PTC.Creo_Parametric.
+Created registry key [HKCR]Applications\parametric.exe\Shell.
+Created registry key [HKCR]Applications\parametric.exe\Shell\Open with default value [OpenWith].
+Created registry key [HKCR]Applications\parametric.exe\Shell\Open\Command with default value "[LP]/bin/parametric.exe" "%1".
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\creo_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/ptchostid.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/ptcflush.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/ptcstatus.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/convert_image.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/dcadsetup.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/dcadshutdown.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/parametric_borrow.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/pro_mcs_comp.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/pro_ncl_cvt.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/procvtutil.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/propostg.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/propostl.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/propostq.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/protab.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/protk_unlock.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/ptcborrow.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/purge.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/modelcheck.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/progpostg.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/progpostl.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/progpostq.bat.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/proev.bat.
+ Sessioninfo xml file :C:\Users\SSO103\Desktop\MED-100WIN-CD-410_M020_Win64\pim\xml\psf_templates.xml)
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/parametric.psf.
+Created script C:\Program Files\PTC/Creo 4.0/M020/Parametric/bin/cocreatesim.psf.
+Create Start Menu Programs Folder Shortcut Creo Parametric 4.0 M020.
+Create Desktop Shortcut Creo Parametric 4.0 M020.
+Create Start Menu Programs Folder Shortcut Creo Modelcheck 4.0 M020.
+Create Desktop Shortcut Creo Modelcheck 4.0 M020.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Executing custom action to configure OLE.
+Goodbye!
