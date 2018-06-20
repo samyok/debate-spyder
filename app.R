@@ -1,22 +1,3 @@
-if (interactive()) {
-  ui <- fluidPage(
-    textInput("password", "Username:"),
-    passwordInput("password", "Password:"),
-    actionButton("go", "Go"),
-    verbatimTextOutput("value")
-    
-  )
-  server <- function(input, output) {
-    output$value <- renderText({
-      req(input$go)
-      isolate(input$password)
-    })
-  }
-  shinyApp(ui, server)
-}
-# library(shiny)
-
-
 library(shiny)
 
 # Define server logic ----
@@ -34,26 +15,25 @@ server <- function(input, output, session) {
 ui <- navbarPage(
   "Debate SPYDER",
   tabPanel("Home", fillPage(
-    h1("Welcome to",
-       span("Debate SPYDER", style = "color:red"),
+    h1(span("Debate SPYDER", style = "color:red"),
        align = "center"),
-    h3(
+    p(
       "A website dedicated to helping you",
       span("analyze" , style = "color:red"),
       "and",
       span("interpret", style = "color:red"),
       "debate data",
-      align = "center"
+      align = "center",
+      style="font-size:25px"
     ),
-    h6(
+    p(
       "If you know the opponent and know yourself, you need not fear the result of a hundred debate rounds. - Sun Tzu, modified",
-      align = "center"
+      align = "center",
+      style="font-size:15px"
     ),
     img(
-      src = "SPYDER.PNG",
-      height = 600,
-      width = 600,
-      align = "center"
+      src = "https://cdn.samyok.us/SPYDER.png",
+      style="display: block; margin-left: auto; margin-right: auto; width=100%"
     ),
     h4("Credits:")
   )),
@@ -62,25 +42,25 @@ ui <- navbarPage(
     tabPanel("Schools",
              textInput("schoolsearch", label = "School Search"),
              actionButton("schoolsearchbutton", label = "Go")
-             ),
-    tabPanel("Cities", 
-             textInput("citysearch", label = "City Search"),
-             actionButton("citysearchbutton", label = "Go")
-             ),
-    tabPanel("Districts", 
-             textInput("districtsearch", label = "District Search"),
-             actionButton("districtsearchbutton", label = "Go")
-             ),
-    tabPanel("States", 
-             textInput("statesearch", label = "State Search"),
-             actionButton("statesearchbutton", label = "Go")
-             ),
-    tabPanel("People", 
-             textInput("peoplesearch", label = "People Search"),
-             actionButton("peoplesearchbutton", label = "Go")
-             )
+    ),
+    tabPanel("Competition", 
+             textInput("competitionsearch", label = "Competition Search"),
+             actionButton("competitionsearchbutton", label = "Go")
+    ),
+    tabPanel("Individuals", 
+             textInput("individualsearch", label = "Individual Search"),
+             actionButton("individualsearchbutton", label = "Go")
+    )
   ),
-  tabPanel("Info", "INFORMATION"),
+  tabPanel("Info",
+           h1("Information"),
+           h3(span("Schools", style="color:red")),
+           p("View any school's details and statistics.", style="font-size:20px" ),
+           h3(span("Competition", style="color:red")), 
+           p("Copy and paste the list of your competitors to analyze all of their statistics at once, including state, district, school, and points.",  style="font-size:20px" ),
+           h3(span("Individuals", style = "color:red")),
+           p("Search for any individual and view details and statistics.",  style="font-size:20px")
+           ),
   tabPanel(
     textOutput("log_text"),
     inline = TRUE,
@@ -93,7 +73,6 @@ ui <- navbarPage(
   collapsible = TRUE
   
 )
-# p('123')
 
 # Run the app ----
 shinyApp(ui = ui, server = server
