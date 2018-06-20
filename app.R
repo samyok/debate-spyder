@@ -59,11 +59,26 @@ ui <- navbarPage(
   )),
   navbarMenu(
     "Search",
-    tabPanel("Schools", "SCHOOLS"),
-    tabPanel("Cities", "CITIES"),
-    tabPanel("Districts", 'DISTRICTS'),
-    tabPanel("States", 'STATES'),
-    tabPanel("People", "PEOPLE")
+    tabPanel("Schools",
+             textInput("schoolsearch", label = "School Search"),
+             actionButton("schoolsearchbutton", label = "Go")
+             ),
+    tabPanel("Cities", 
+             textInput("citysearch", label = "City Search"),
+             actionButton("citysearchbutton", label = "Go")
+             ),
+    tabPanel("Districts", 
+             textInput("districtsearch", label = "District Search"),
+             actionButton("districtsearchbutton", label = "Go")
+             ),
+    tabPanel("States", 
+             textInput("statesearch", label = "State Search"),
+             actionButton("statesearchbutton", label = "Go")
+             ),
+    tabPanel("People", 
+             textInput("peoplesearch", label = "People Search"),
+             actionButton("peoplesearchbutton", label = "Go")
+             )
   ),
   tabPanel("Info", "INFORMATION"),
   tabPanel(textOutput("log_text"), inline = TRUE, "LOGIN"),
