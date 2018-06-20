@@ -34,8 +34,7 @@ server <- function(input, output, session) {
 ui <- navbarPage(
   "Debate SPYDER",
   tabPanel("Home", fillPage(
-    h1("Welcome to",
-       span("Debate SPYDER", style = "color:red"),
+    h1(span("Debate SPYDER", style = "color:red"),
        align = "center"),
     h3(
       "A website dedicated to helping you",
@@ -60,25 +59,28 @@ ui <- navbarPage(
     tabPanel("Schools",
              textInput("schoolsearch", label = "School Search"),
              actionButton("schoolsearchbutton", label = "Go")
-             ),
-    tabPanel("Cities", 
-             textInput("citysearch", label = "City Search"),
-             actionButton("citysearchbutton", label = "Go")
-             ),
+    ),
+    tabPanel("Competition", 
+             textInput("competitionsearch", label = "Competition Search"),
+             actionButton("competitionsearchbutton", label = "Go")
+    ),
     tabPanel("Districts", 
              textInput("districtsearch", label = "District Search"),
              actionButton("districtsearchbutton", label = "Go")
-             ),
+    ),
     tabPanel("States", 
              textInput("statesearch", label = "State Search"),
              actionButton("statesearchbutton", label = "Go")
-             ),
-    tabPanel("People", 
-             textInput("peoplesearch", label = "People Search"),
-             actionButton("peoplesearchbutton", label = "Go")
-             )
+    ),
+    tabPanel("Individuals", 
+             textInput("individualsearch", label = "Individual Search"),
+             actionButton("individualsearchbutton", label = "Go")
+    )
   ),
-  tabPanel("Info", "INFORMATION"),
+  tabPanel("Info",
+           h1("Information"),
+           h3("")
+           ),
   tabPanel(
     textOutput("log_text"),
     inline = TRUE,
