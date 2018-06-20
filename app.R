@@ -50,7 +50,7 @@ ui <- navbarPage(
       align = "center"
     ),
     img(
-      src = "SPYDER.PNG",
+      src = "https://nepaltechguy2.github.com/debate-spyder/SPYDER.PNG",
       style="display: block; margin-left: auto; margin-right: auto;"
     ),
     h4("Credits:")
