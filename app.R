@@ -16,23 +16,27 @@ server <- function(input, output, session) {
 ui <- navbarPage(
   "Debate SPYDER",
   tabPanel("Home", fillPage(
-    h1(span("Debate SPYDER", style = "color:#d00000"),
+    h1(span("Debate SPYDER", style = "color:red"),
        align = "center"),
-    h3(
+    p(
       "A website dedicated to helping you",
       span("analyze" , style = "color:#d00000 "),
       "and",
       span("interpret", style = "color:#d00000"),
       "debate data",
-      align = "center"
+      align = "center",
+      style="font-size:25px"
     ),
-    h6(
+    p(
       "If you know the opponent and know yourself, you need not fear the result of a hundred debate rounds. - Sun Tzu, modified",
-      align = "center"
+      align = "center",
+      style="font-size:15px"
     ),
     img(
       src = "https://cdn.samyok.us/SPYDER.png",
-      style="display: block; margin-left: auto; margin-right: auto;"
+
+      style="display: block; margin-left: auto; margin-right: auto; width=100%"
+
     ),
     h4("Credits:")
   )),
@@ -46,14 +50,6 @@ ui <- navbarPage(
              textInput("competitionsearch", label = "Competition Search"),
              actionButton("competitionsearchbutton", label = "Go")
     ),
-    tabPanel("Districts", 
-             textInput("districtsearch", label = "District Search"),
-             actionButton("districtsearchbutton", label = "Go")
-    ),
-    tabPanel("States", 
-             textInput("statesearch", label = "State Search"),
-             actionButton("statesearchbutton", label = "Go")
-    ),
     tabPanel("Individuals", 
              textInput("individualsearch", label = "Individual Search"),
              actionButton("individualsearchbutton", label = "Go")
@@ -61,7 +57,13 @@ ui <- navbarPage(
   ),
   tabPanel("Info",
            h1("Information"),
-           h3("")
+
+           h3(span("Schools", style="color:red")),
+           p("View any school's details and statistics.", style="font-size:20px" ),
+           h3(span("Competition", style="color:red")), 
+           p("Copy and paste the list of your competitors to analyze all of their statistics at once, including state, district, school, and points.",  style="font-size:20px" ),
+           h3(span("Individuals", style = "color:red")),
+           p("Search for any individual and view details and statistics.",  style="font-size:20px")
            ),
   tabPanel(
     textOutput("log_text"),
@@ -75,7 +77,6 @@ ui <- navbarPage(
   collapsible = TRUE,
   includeCSS("app.css")
 )
-# p('123')
 
 # Run the app ----
 shinyApp(ui = ui, server = server
