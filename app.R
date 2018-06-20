@@ -1,3 +1,19 @@
+if (interactive()) {
+  ui <- fluidPage(
+    textInput("password", "Username:"),
+    passwordInput("password", "Password:"),
+    actionButton("go", "Go"),
+    verbatimTextOutput("value")
+    
+  )
+  server <- function(input, output) {
+    output$value <- renderText({
+      req(input$go)
+      isolate(input$password)
+    })
+  }
+  shinyApp(ui, server)
+}
 # library(shiny)
 
 
@@ -50,12 +66,20 @@ ui <- navbarPage(
     tabPanel("People", "PEOPLE")
   ),
   tabPanel("Info", "INFORMATION"),
-  tabPanel(textOutput("log_text"), inline = TRUE, "LOGIN"),
-  inverse = true,
+  tabPanel(
+    textOutput("log_text"),
+    inline = TRUE,
+    textInput("unames", "Username:"),
+    passwordInput("password", "Password:"),
+    actionButton("go", "Go"),
+    verbatimTextOutput("value")
+  ),
+  inverse = TRUE,
   collapsible = TRUE
-
+  
 )
 # p('123')
 
 # Run the app ----
-shinyApp(ui = ui, server = server)
+shinyApp(ui = ui, server = server
+)
