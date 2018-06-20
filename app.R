@@ -14,14 +14,15 @@ server <- function(input, output, session) {
 
 ui <- navbarPage(
   "Debate SPYDER",
+  includeCSS("app.css")
   tabPanel("Home", fillPage(
-    h1(span("Debate SPYDER", style = "color:red"),
+    h1(span("Debate SPYDER", style = "color:#d00000"),
        align = "center"),
     h3(
       "A website dedicated to helping you",
-      span("analyze" , style = "color:red"),
+      span("analyze" , style = "color:#d00000"),
       "and",
-      span("interpret", style = "color:red"),
+      span("interpret", style = "color:#d00000"),
       "debate data",
       align = "center"
     ),
