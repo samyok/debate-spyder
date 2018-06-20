@@ -1,22 +1,6 @@
 # library(shiny)
-#
-# # Define UI ----
-# ui <- fluidPage(
-#
-#
-#
-#   titlePanel("Debate SPYDER"),
-#
-#   navlistPanel(
-#     "Data",
-#     tabPanel("Schools"),
-#     tabPanel("Cities"),
-#     tabPanel("Districts"),
-#     tabPanel("States"),
-#     tabPanel("People")
-#
-#   )
-# )
+
+
 library(shiny)
 
 # Define server logic ----
@@ -69,6 +53,7 @@ ui <- navbarPage(
   tabPanel(textOutput("log_text"), inline = TRUE, "LOGIN"),
   inverse = true,
   collapsible = TRUE
+
 )
 # p('123')
 
