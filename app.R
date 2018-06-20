@@ -16,7 +16,7 @@ server <- function(input, output, session) {
 ui <- navbarPage(
   "Debate SPYDER",
   tabPanel("Home", fillPage(
-    h1(span("Debate SPYDER", style = "color:red"),
+    h1(span("Debate SPYDER", style = "color:#d00000"),
        align = "center"),
     p(
       "A website dedicated to helping you",
