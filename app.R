@@ -51,9 +51,7 @@ ui <- navbarPage(
     ),
     img(
       src = "SPYDER.PNG",
-      height = 600,
-      width = 600,
-      align = "center"
+      style="display: block; margin-left: auto; margin-right: auto;"
     ),
     h4("Credits:")
   )),
