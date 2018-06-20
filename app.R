@@ -1,3 +1,4 @@
+
 library(shiny)
 
 # Define server logic ----
@@ -14,13 +15,12 @@ server <- function(input, output, session) {
 
 ui <- navbarPage(
   "Debate SPYDER",
-  includeCSS("app.css")
   tabPanel("Home", fillPage(
     h1(span("Debate SPYDER", style = "color:#d00000"),
        align = "center"),
     h3(
       "A website dedicated to helping you",
-      span("analyze" , style = "color:#d00000"),
+      span("analyze" , style = "color:#d00000 "),
       "and",
       span("interpret", style = "color:#d00000"),
       "debate data",
@@ -31,7 +31,7 @@ ui <- navbarPage(
       align = "center"
     ),
     img(
-      src = "https://nepaltechguy2.github.com/debate-spyder/SPYDER.PNG",
+      src = "https://cdn.samyok.us/SPYDER.png",
       style="display: block; margin-left: auto; margin-right: auto;"
     ),
     h4("Credits:")
@@ -72,8 +72,8 @@ ui <- navbarPage(
     verbatimTextOutput("value")
   ),
   inverse = TRUE,
-  collapsible = TRUE
-  
+  collapsible = TRUE,
+  includeCSS("app.css")
 )
 # p('123')
 
