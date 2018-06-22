@@ -1,5 +1,7 @@
 # lib for samyok
 library(jsonlite)
+library(readr)
+
 CURL_DIR = paste('curl', sep = '')
 concat = function(...) {
   return(paste(..., sep = ''))
@@ -72,4 +74,82 @@ NSDAMember <-  function(id, cookies="nsda.cookies") {
   df = as.data.frame(mx)
   names(df) <- lname
   return(df)
+}
+NSDAPoints <- function(id, cookies = "nsda.cookies"){
+  x = fromJSON(SCurl(concat("https://api.speechanddebate.org/v1/members/",id, "/points"), cookies, POST = FALSE))
+  return(x)
+}
+NSDAGetCompPoints <- function(arr, competition_type){
+  z = data.frame()
+  
+  for(i in 1:nrow(x)){
+    if(x[i,'category'] == competition_type){
+      z = rbind(z, x[i,])
+    }
+  }
+  return(z)
+}
+NSDANumWins = function(y){
+  result = 0
+  for(i in 1:nrow(y)){
+    result = result + as.numeric(strsplit(y[i, 'result'], "W")[[1]][1])
+  }
+  return(result)
+}
+NSDANumLosses = function(y){
+  result = 0
+  for(i in 1:nrow(y)){
+    result = result + as.numeric(strsplit(strsplit(y[i, 'result'], "W, ")[[1]][2], "L")[[1]][1])
+  }
+  return(result)
+}
+
+NSDAEarliestYear = function(y) {
+  result = 999999
+  for(i in 1:nrow(y)){
+    year = as.numeric(strsplit(y[i, 'tourn_start'], "-")[[1]][1])
+    if( year < result) {
+      result = year  
+    }
+  }
+  return(result)
+}
+NSDANumNats  =function(y){
+  result = 0
+  for(i in 1:nrow(y)){
+    if(y[i, 'nationals']){
+      result = result +1 
+    }
+  }
+  return(result)
+}
+NSDANatsPts = function(y){
+  result = 0
+  for(i in 1:nrow(y)){
+    if(y[i, 'nationals']){
+      result = result + y[i, 'points']
+    }
+  }
+  return(result)
+}
+NSDAthreatScore = function(x, member){
+  y = NSDAGetCompPoints(x, 103)
+  points = sum(y['points'])
+  
+  summy = NSDANumWins(y)
+  lossy = NSDANumLosses(y)
+  
+  years = NSDAEarliestYear(y) - as.numeric(format(Sys.Date(), "%Y"))
+  nationals = NSDANumNats(y)
+  ptsNats = NSDANatsPts(y)
+  
+  if(is.null(member[1, 'points_last_year'])){
+    ptsLastYear = 0
+  } else {
+    ptsLastYear =as.numeric(as.character( member[1, 'points_last_year']))
+  }
+  ptsThisYear = as.numeric(as.character(member[1, 'points_this_year']))
+  totalPoints = as.numeric(as.character(as.numeric(member[1, 6])))
+  
+  threat_score = points/10 + totalPoints/20+ ptsThisYear/10 + years*50 + summy*2 + summy * 20 / (lossy +1 ) + nrow(x) + nationals*50 + ptsNats/5
 }

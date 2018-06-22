@@ -1,0 +1,302 @@
+[
+  {
+    "id": 101,
+    "description": "Other Debate",
+    "ranked": false,
+    "main": false,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 102,
+    "description": "Lincoln-Douglas Debate",
+    "ranked": true,
+    "main": true,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 103,
+    "description": "Policy Debate",
+    "ranked": true,
+    "main": true,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 104,
+    "description": "Public Forum Debate",
+    "ranked": true,
+    "main": true,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 105,
+    "description": "World Schools Debate",
+    "ranked": true,
+    "main": true,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 106,
+    "description": "Extemporaneous Debate",
+    "ranked": true,
+    "main": false,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 107,
+    "description": "Parliamentary Debate",
+    "ranked": true,
+    "main": false,
+    "type": "debate",
+    "hs": false,
+    "ms": false,
+    "pkd": true
+  },
+  {
+    "id": 108,
+    "description": "Big Questions Debate",
+    "ranked": true,
+    "main": false,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 109,
+    "description": "Mock Trial",
+    "ranked": true,
+    "main": false,
+    "type": "debate",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 201,
+    "description": "Other Speech",
+    "ranked": false,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 202,
+    "description": "Extemporaneous",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 203,
+    "description": "Original Oratory",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 204,
+    "description": "Dramatic Interp",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 205,
+    "description": "Humorous Interp",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 206,
+    "description": "Duo Interp",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 207,
+    "description": "Program Interp",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 208,
+    "description": "Informative",
+    "ranked": true,
+    "main": true,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 209,
+    "description": "Declamation",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 210,
+    "description": "Commentary",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 211,
+    "description": "Impromptu",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 212,
+    "description": "Storytelling",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 213,
+    "description": "Expository",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 214,
+    "description": "Prose",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 215,
+    "description": "Poetry",
+    "ranked": true,
+    "main": false,
+    "type": "speech",
+    "hs": true,
+    "ms": true,
+    "pkd": false
+  },
+  {
+    "id": 216,
+    "description": "Persuasive",
+    "ranked": false,
+    "main": false,
+    "type": "speech",
+    "hs": false,
+    "ms": false,
+    "pkd": true
+  },
+  {
+    "id": 217,
+    "description": "After Dinner",
+    "ranked": false,
+    "main": false,
+    "type": "speech",
+    "hs": false,
+    "ms": false,
+    "pkd": true
+  },
+  {
+    "id": 218,
+    "description": "Communication Analysis",
+    "ranked": false,
+    "main": false,
+    "type": "speech",
+    "hs": false,
+    "ms": false,
+    "pkd": true
+  },
+  {
+    "id": 219,
+    "description": "Radio Broadcasting",
+    "ranked": false,
+    "main": false,
+    "type": "speech",
+    "hs": false,
+    "ms": false,
+    "pkd": true
+  },
+  {
+    "id": 301,
+    "description": "Congressional Debate",
+    "ranked": true,
+    "main": true,
+    "type": "congress",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  },
+  {
+    "id": 401,
+    "description": "Service",
+    "ranked": false,
+    "main": false,
+    "type": "service",
+    "hs": true,
+    "ms": true,
+    "pkd": true
+  }
+]
